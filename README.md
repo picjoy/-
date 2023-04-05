@@ -1,5 +1,5 @@
 # 알고리즘 및 코딩 테스트 문제 풀이 💯
-> 알고리즘 및 코딩 테스트 문제 풀이를 통한 개발 능력 향상
+> 알고리즘 및 코딩 테스트 문제 풀이를 통한 다양한 자료구조 지식 습득 및 개발 능력 향상  
 
 ## ⚖️ 스터디 규칙
 - 일주일당 최소 3문제
@@ -11,13 +11,13 @@
 ## 📖 스터디 방법
 - 일주일에 세문제는 무조건 풀어본다.
 - 문제를 풀고 새로 알게된 자료구조를 공부한다.
-- 다른 사람들의 풀이들을 보며 다양한 문제 해결 방법을 공부한다.
+- ~~다른 사람들의 풀이들을 보며 다양한 문제 해결 방법을 공부한다.~~
 
 ## 📅 스터디 일정
 
-| 날짜 | 문제 | 완료 |
-| --- | --- |:---:|
-| 4월 5일(수) | [폰켓몬 ::: Set(HashSet)](https://github.com/seunGit/Algorithm-Study/blob/main/20230313/%ED%81%B0%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.md) |✅|  
+| 날짜 | 문제 | 자료구조 | 완료 |
+| --- | --- | --- |:---:|
+| 4월 5일(수) | [폰켓몬](https://github.com/picjoy/Algorithm/blob/main/Coding%20Test/Hash/%EB%AC%B8%EC%A0%9C/%ED%8F%B0%EC%BC%93%EB%AA%AC.md) | [Set(HashSet)](https://github.com/picjoy/Algorithm/blob/main/Coding%20Test/Hash/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/HashSet.md)|✅|  
 
 ## 👥 참여인원
 <table>
