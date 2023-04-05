@@ -3,7 +3,7 @@
 
 ## ⚖️ 스터디 규칙
 - 일주일당 최소 3문제
-- 언어 : Java
+- 언어 : Java, JavaScript
 - 알고리즘 문제 : [Backjun](https://www.acmicpc.net/), [Programmers](https://programmers.co.kr/), [HackerRank](https://www.hackerrank.com/)
 - 알고리즘 강의 : [InfLearn](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%ED%85%8C%EB%8C%80%EB%B9%84/dashboard)
 
