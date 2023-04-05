@@ -17,7 +17,8 @@
 
 | 날짜 | 문제 | 자료구조 | 완료 |
 | --- | --- | --- |:---:|
-| 4월 5일(수) | [폰켓몬](https://github.com/picjoy/Algorithm/blob/main/Coding%20Test/Hash/%EB%AC%B8%EC%A0%9C/%ED%8F%B0%EC%BC%93%EB%AA%AC.md) | [Set(HashSet)](https://github.com/picjoy/Algorithm/blob/main/Coding%20Test/Hash/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/HashSet.md)|✅|  
+| 4월 5일(수) | [폰켓몬](https://github.com/picjoy/Algorithm/blob/main/Coding%20Test/Hash/%EB%AC%B8%EC%A0%9C/%ED%8F%B0%EC%BC%93%EB%AA%AC.md) / [완주하지 못한 선수](https://github.com/picjoy/Algorithm/blob/main/Coding%20Test/Hash/%EB%AC%B8%EC%A0%9C/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.md)
+ | [Set(HashSet)](https://github.com/picjoy/Algorithm/blob/main/Coding%20Test/Hash/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/HashSet.md)|✅|  
 
 ## 👥 참여인원
 <table>
